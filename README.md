@@ -21,6 +21,7 @@ A passionate software engineer building **scalable systems**, **clean architectu
 - ⚡ Turning **ideas → production apps**
 - 🧠 Mastering **design patterns & system architecture**
 - 💻 Building full-stack systems with **React + JavaScript + Python**
+- 🖧 Designing PCBs for electronics projects and embedded systems
 - ⚙️ Automating cloud infrastructure with **Kubernetes, Terraform**
 - ☁️ AWS, CI/CD, DevOps workflows
 
