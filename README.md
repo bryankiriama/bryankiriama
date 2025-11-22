@@ -35,7 +35,7 @@ I am a full-stack software engineer
 <br>
 
 
-[![Albert's github stats](https://github-readme-stats.vercel.app/api?username=bryankiriama&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Albert's github stats](https://github-readme-stats.vercel.app/api?username=bryankiriama&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/bryankiriama/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Byrone&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
