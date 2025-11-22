@@ -3,8 +3,9 @@
 ### Hello World 👋
 ### *Full-Stack Wizard* 🧙‍♂️ | *DevOps Alchemist* ⚗️
 📍 **Nairobi, Kenya** | ✉️ **bryankiriama@gmail.com**
+
 I am a full-stack software engineer
-🚀 **I turn coffee into code** and **problems into 99.8% uptime**. 
+🚀 **I turn coffee into code** and **problems into 99.8% uptime**.
 - 🔭 Working on multiple frontend and backend projects using React and Python(Django and Flask)
 - 🌱 Learning design patterns in depth
 
