@@ -69,7 +69,7 @@ A passionate software engineer building **scalable systems**, **clean architectu
 
 ---
 
-# 📈 **GitHub Stats (CORRECTED)**
+# 📈 **GitHub Stats **
 
 <p align="center">
 
