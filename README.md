@@ -32,12 +32,12 @@ A passionate software engineer building **scalable systems**, **clean architectu
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/bryan-kiriama-b172ba27a/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="78" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="38" />
 </a>
 
 <!-- X / Twitter -->
 <a href="https://x.com/Kiriama_" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" width="78" />
+  <img src="https://skillicons.dev/icons?i=twitter" width="38" />
 </a>
 
 </p>
