@@ -97,8 +97,7 @@ A passionate software engineer building **scalable systems**, **clean architectu
 ---
 
 # 🎉 **Fun Fact**
-I don’t just write code —
-I build **systems**, craft **experiences**, and automate **chaos into order**.
+“Debugging is like being a detective in a crime movie where you’re also the murderer.” 🔍
 
 ---
 
