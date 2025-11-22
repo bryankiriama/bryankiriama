@@ -67,8 +67,10 @@ A passionate software engineer building **scalable systems**, **clean architectu
 ---
 
 # 🚀 **Current Mission**
-- Architecting scalable backends
-- Deploy
+- Master Cybersecurity Essentials
+- System Hardening & Threat Intelligence
+- Security Architecture & Incident Response
+- Penetration Testing & Professional Growth
 
 ---
 
