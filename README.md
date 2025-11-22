@@ -68,9 +68,7 @@ A passionate software engineer building **scalable systems**, **clean architectu
 
 # 🚀 **Current Mission**
 - Architecting scalable backends
-- Deploying automated CI/CD pipelines
-- Building production-ready apps
-- Mastering design patterns and clean code
+- Deploy
 
 ---
 
