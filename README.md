@@ -30,11 +30,11 @@ Here are some of the public repositories on my GitHub that demonstrate what I bu
 
 | Project | Description |
 |---|---|
-| **`project-1-name`** | A React + Django application for … *(replace with real description)* |
+| **`project-1-name`** | A React + Django application for |
 | **`project-2-name`** | A microservices architecture built with Flask and Docker, designed for … |
 | **`project-3-name`** | DevOps infrastructure-as-code using Terraform + Kubernetes for a scalable backend |
 
-> 💡 *Tip:* You can “pin” these repos on your GitHub profile so they appear prominently on your profile page — go to your GitHub → *Customize your pins* on your profile.
+
 
 ---
 
