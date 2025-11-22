@@ -20,7 +20,7 @@ A passionate software engineer building **scalable systems**, **clean architectu
 
 - ⚡ Turning **ideas → production apps**
 - 🧠 Mastering **design patterns & system architecture**
-- 💻 Building full-stack systems with **React + TypeScript + Python**
+- 💻 Building full-stack systems with **React + JavaScript + Python**
 - ⚙️ Automating cloud infrastructure with **Docker, Kubernetes, Terraform**
 - ☁️ AWS, CI/CD, DevOps workflows
 
