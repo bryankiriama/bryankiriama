@@ -41,6 +41,7 @@ Here are some of the public repositories on my GitHub that demonstrate what I bu
 ## 🧰 My Dev Toolbelt
 
 **Languages & Frameworks**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
@@ -49,6 +50,7 @@ Here are some of the public repositories on my GitHub that demonstrate what I bu
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 
 **DevOps & Cloud**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
@@ -56,6 +58,7 @@ Here are some of the public repositories on my GitHub that demonstrate what I bu
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 **Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
