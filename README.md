@@ -86,7 +86,7 @@ A passionate **Full-Stack Engineer** crafting smooth user experiences and bullet
 ---
 
 # 🚀 Featured Projects
-*(Optional — I can generate this section automatically if you give me your GitHub repos.)*
+
 
 ---
 
