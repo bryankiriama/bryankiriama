@@ -70,7 +70,7 @@ A passionate software engineer building **scalable systems**, **clean architectu
 - Master Cybersecurity Essentials
 - System Hardening & Threat Intelligence
 - Security Architecture & Incident Response
-- Generative AI Essentials
+- Generative AI Essentials and Automation
 - Penetration Testing & Professional Growth
 
 ---
