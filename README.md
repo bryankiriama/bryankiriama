@@ -21,7 +21,7 @@ A passionate software engineer building **scalable systems**, **clean architectu
 - ⚡ Turning **ideas → production apps**
 - 🧠 Mastering **design patterns & system architecture**
 - 💻 Building full-stack systems with **React + JavaScript + Python**
-- ⚙️ Automating cloud infrastructure with **Docker, Kubernetes, Terraform**
+- ⚙️ Automating cloud infrastructure with **Kubernetes, Terraform**
 - ☁️ AWS, CI/CD, DevOps workflows
 
 ---
@@ -55,7 +55,6 @@ A passionate software engineer building **scalable systems**, **clean architectu
 
 
 ### 🛠️ **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
