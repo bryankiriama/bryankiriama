@@ -28,19 +28,30 @@ I am a full-stack software engineer
 
 <br>
 
-## Expertise
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="android" src="https://img.shields.io/badge/Flask-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-<img align="left" alt="spring" src="https://img.shields.io/badge/drf%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
-<img align="left" alt="aws" src="https://img.shields.io/badge/django%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/Angular-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="spring" src="https://img.shields.io/badge/Javascript%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+### ⚒️ **Dev Toolbelt**
+**⌨️ Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+
+**🛠️ DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+
+**🗄️ Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+
 <br>
 <br>
 
 
-[![Albert's github stats](https://github-readme-stats.vercel.app/api?username=bryankiriama&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/bryankiriama/github-readme-stats)
+[![Bryan's github stats](https://github-readme-stats.vercel.app/api?username=bryankiriama&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/bryankiriama/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Byrone&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
