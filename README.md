@@ -8,9 +8,9 @@
 # 🌟 **Bryan Kiriama**
 ### *Full-Stack Wizard* 🧙‍♂️ | *DevOps Alchemist* ⚗️ | *System Architect*
 
-📍 Nairobi, Kenya
+📍 Nairobi, Kenya / Kigali, Rwanda
 📬 **Email:** bryankiriama@gmail.com
-🔗 **Portfolio:** *(coming soon)*
+<!-- 🔗 **Portfolio:** *(coming soon)* -->
 
 ---
 
