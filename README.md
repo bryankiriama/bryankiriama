@@ -6,7 +6,7 @@
 
 I am a full-stack software engineer
 
-🚀 **I turn coffee into code** and **problems into 99.8% uptime**.
+- 🚀 **I turn coffee into code** and **problems into 99.8% uptime**.
 - 🔭 Working on multiple frontend and backend projects using React and Python(Django and Flask)
 - 🌱 Learning design patterns in depth
 
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-86.6%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤**
-<!-- 
+<!--
 ```text
 🌞 Morning                3700 commits        ████████░░░░░░░░░░░░░░░░░   33.39 %
 🌆 Daytime                4960 commits        ███████████░░░░░░░░░░░░░░   44.76 %
