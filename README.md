@@ -74,7 +74,7 @@ A passionate software engineer building **scalable systems**, **clean architectu
 <p align="center">
 
 <!-- Main Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=bryankiriama&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=bryankiriama&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180" /> -->
 
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryankiriama&layout=compact&theme=tokyonight" height="180" />
