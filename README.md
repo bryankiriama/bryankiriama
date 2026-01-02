@@ -10,7 +10,7 @@
 
 📍 Nairobi, Kenya / Kigali, Rwanda
 📬 **Email:** bryankiriama@gmail.com
-<!-- 🔗 **Portfolio:** *(coming soon)* -->
+🔗 **Portfolio:** https://personal-portfolio-nu-self-93.vercel.app/
 
 ---
 
