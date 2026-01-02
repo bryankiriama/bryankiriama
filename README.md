@@ -9,7 +9,7 @@
 ### *Full-Stack Wizard* 🧙‍♂️ | *DevOps Alchemist* ⚗️ | *System Architect*
 
 📍 Nairobi, Kenya / Kigali, Rwanda
-📬 **Email:** bryankiriama@gmail.com
+📬 **Email:** bryankiriama@gmail.com <br>
 🔗 **Portfolio:** https://personal-portfolio-nu-self-93.vercel.app/
 
 ---
